@@ -1,6 +1,6 @@
 # Azure Data Engineering Projects
 
-A portfolio of 20 end-to-end data engineering projects built with Azure and Microsoft Fabric, covering ingestion, transformation, SCD patterns, medallion architecture, and analytics.
+A portfolio of end-to-end data engineering projects built with Azure and Microsoft Fabric, covering ingestion, transformation, SCD patterns, medallion architecture, and analytics.
 
 ## Tech stack
 Azure Data Factory · Azure Synapse · Azure Databricks · ADLS Gen2 · Microsoft Fabric · PySpark · SQL · Power BI
@@ -9,16 +9,16 @@ Azure Data Factory · Azure Synapse · Azure Databricks · ADLS Gen2 · Microsof
 
 | # | Project | Key services | Status |
 |---|---------|--------------|--------|
-| 01 | [Fabric Ecommerce End to End](project-01-fabric-ecommerce-end-to-end) | Fabric | 🔲 Not started |
+| 01 | [Fabric Ecommerce End to End](project-01-fabric-ecommerce-end-to-end) | Fabric | ✅ Done
 | 02 | [Azure Synapse Data Engineer](project-02-azure-synapse-data-engineer) | Synapse, ADLS | 🔲 Not started |
-| 03 | [ADF Data Pipeline](project-03-adf-data-pipeline) | ADF | 🔲 Not started |
-| 04 | [Retail Databricks](project-04-retail-databricks) | Databricks | 🔲 Not started |
+| 03 | [ADF Data Pipeline](project-03-adf-data-pipeline) | ADF | 🚧 In progress
+| 04 | [Retail Databricks](project-04-retail-databricks) | Databricks | 🚧 In progress
 | 05 | [REST API to ADLS](project-05-rest-api-to-adls) | ADF, ADLS | 🔲 Not started |
-| 06 | [Medallion Architecture (Fabric)](project-06-fabric-medallion-architecture) | Fabric | 🔲 Not started |
+| 06 | [Medallion Architecture (Fabric)](project-06-fabric-medallion-architecture) | Fabric | ✅ Done
 | 07 | [Data Engineering End to End](project-07-data-engineering-end-to-end) | TBD | 🔲 Not started |
 | 08 | [SCD Type 1 Pipeline](project-08-adf-scd-type1-pipeline) | ADF | 🔲 Not started |
 | 09 | [Data Flow SCD Type 2 Pipeline](project-09-dataflow-scd-type2-pipeline) | ADF Data Flows | 🔲 Not started |
-| 10 | [Databricks Data Engineering](project-10-databricks-data-engineering) | Databricks | 🔲 Not started |
+| 10 | [Databricks Data Engineering](project-10-databricks-data-engineering) | Databricks | 🚧 In progress
 | 11 | [Fabric Ecommerce Order Analytics](project-11-fabric-ecommerce-order-analytics) | Fabric, Power BI | 🔲 Not started |
 | 12 | [Fabric HR Analytics](project-12-fabric-hr-analytics) | Fabric, Power BI | 🔲 Not started |
 | 13 | [Fabric Incremental Data Load](project-13-fabric-incremental-data-load) | Fabric | 🔲 Not started |
